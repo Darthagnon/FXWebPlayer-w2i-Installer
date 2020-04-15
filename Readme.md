@@ -148,6 +148,7 @@ C:\ProgramData\FXWebPlayer\7zr.exe x -y -oC:\Users\Username\AppData\Local\Temp\{
  - [7za.exe/7zr.exe command line switches](http://7zip.bugaco.com/7zip/MANUAL/cmdline/switches/output_dir.htm)
  - [Ensure sequential reading of user input in BAT file](https://stackoverflow.com/questions/35996103/create-folder-on-desktop-using-user-input-in-batch-file)
  - [Random number generator BAT script](https://gist.github.com/gkmuse/3227586)
+ - [Glass Giant ASCII Art Generator](http://www.glassgiant.com/ascii/) was used to make the initial draft of the ASCII FX Logo, which I then manually customised.
  
 ## License
 Do what you want with it other than malicious stuff (better to link people back here, than to redistribute BAT files). It won't break your PC, but I cannot guarantee it as I'm not a professional programmer. You accept any risk from running this, so don't sue me. If you're worried, examine the code, or don't run BAT files/dodgy software you download off the internet.
