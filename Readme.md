@@ -4,7 +4,7 @@
 ## ¡Attencion! Esto es más útil para los jugadores españoles / italianos que los ingleses!
 
 -------------------------------------------------------------------------------------------------------------------------------------------
-![FX Interactive Logo](/res/FX Interactive Logo.jpg "FX Interactive Logo")
+![FX Interactive Logo](https://github.com/Darthagnon/FXWebPlayer-w2i-Installer/blob/master/res/FX%20Interactive%20Logo.jpg "FX Interactive Logo")
 
 ## How do I backup my FX Store w2i games?
 Purchase the game and download it from the dodgy FX Store. I haven't had any viruses from it yet.
