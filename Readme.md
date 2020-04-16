@@ -36,6 +36,12 @@ Put your **GameName.w2i** in a folder. Download this repo, and put the **Install
 ```
 C:\Program Files (x86)\FX Uninstall Information\
 ```
+ - Goto the following registry keys, via regedit.exe (this is from a 64-bit machine, may be different on an x86 (32-bit) machine). Install Tokens and FXWebPlayer data are stored there. If you're computer-savvy, you can delete registry keys here for uninstalled games (if they're still present). If you're not computer savvy, **don't touch it** - messing up the registry can brick your PC.
+```
+HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\FX Interactive
+HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\FX Interactive\FXWebPlayer
+HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\FX Interactive\Game Name
+```
  - The uninstaller, when uninstalling, will ask you if you want to keep your gamesaves. If you want to find/delete them later, they are often stored in:
 ```
 %USERPROFILE%\AppData\Local\VirtualStore\Program Files (x86)\GameName\
